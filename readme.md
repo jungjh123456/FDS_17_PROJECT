@@ -80,7 +80,7 @@ Validator 검사를 통해 많은 오류를 걸러 낼 수 있었다.
 
 스타벅스 홈페이지 W3C CSS 검사 
 
-![head](./imgMd/starerror.png)
+![head](./imgMd/starError.png)
 
 직접 보니 문제점이 많은 스타벅스 웹페이지 었다. 그래서 웹표준을 준수하고 마크업 후 
 
@@ -180,7 +180,7 @@ Seo를 신경써서 메타테그 추가
 
 ## 끝으로..
 
-![head](./imgMd/Joe.png)
+![head](./imgMd/joe.png)
 
 
 
